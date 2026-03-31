@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 160" width="1040" height="320">
+
+  <!-- Ícone: losango navy -->
+  <polygon points="60,140 30,80 75,30 105,90" fill="#1a3a6b"/>
+  <!-- Ícone: losango frente navy -->
+  <polygon points="95,145 65,85 110,35 140,95" fill="#1e4a8a"/>
+  <!-- Ícone: raio amarelo -->
+  <polygon points="72,38 50,90 72,90 58,138 110,72 85,72" fill="#F5C100"/>
+  <!-- Cruz branca -->
+  <rect x="82" y="28" width="5" height="16" rx="2" fill="white"/>
+  <rect x="76" y="34" width="17" height="5" rx="2" fill="white"/>
+
+  <!-- Texto "plus" -->
+  <text x="155" y="112"
+    font-family="'Arial Rounded MT Bold', 'Nunito', Arial, sans-serif"
+    font-size="90"
+    font-weight="900"
+    fill="white"
+    letter-spacing="-2">plus</text>
+
+  <!-- Texto "media ads" -->
+  <text x="262" y="145"
+    font-family="Arial, sans-serif"
+    font-size="24"
+    font-weight="600"
+    fill="white"
+    letter-spacing="1">media ads</text>
+
+</svg>
